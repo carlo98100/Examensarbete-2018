@@ -1,0 +1,30 @@
+C:\Users\TBTE4HP06\Desktop\AdminPanel\AdminPanel\bin\Debug\employees.mdf
+C:\Users\TBTE4HP06\Desktop\AdminPanel\AdminPanel\bin\Debug\employees_log.ldf
+C:\Users\TBTE4HP06\Desktop\AdminPanel\AdminPanel\bin\Debug\AI.exe.config
+C:\Users\TBTE4HP06\Desktop\AdminPanel\AdminPanel\bin\Debug\AI.exe
+C:\Users\TBTE4HP06\Desktop\AdminPanel\AdminPanel\bin\Debug\AI.pdb
+C:\Users\TBTE4HP06\Desktop\AdminPanel\AdminPanel\obj\Debug\AdminPanel.csprojResolveAssemblyReference.cache
+C:\Users\TBTE4HP06\Desktop\AdminPanel\AdminPanel\obj\Debug\Interop.OutlookSocialProvider.dll
+C:\Users\TBTE4HP06\Desktop\AdminPanel\AdminPanel\obj\Debug\Interop.SharePointProvider.dll
+C:\Users\TBTE4HP06\Desktop\AdminPanel\AdminPanel\obj\Debug\AdminPanel.csproj.ResolveComReference.cache
+C:\Users\TBTE4HP06\Desktop\AdminPanel\AdminPanel\obj\Debug\AdminPanel.Form1.resources
+C:\Users\TBTE4HP06\Desktop\AdminPanel\AdminPanel\obj\Debug\AI.Properties.Resources.resources
+C:\Users\TBTE4HP06\Desktop\AdminPanel\AdminPanel\obj\Debug\AdminPanel.csproj.GenerateResource.Cache
+C:\Users\TBTE4HP06\Desktop\AdminPanel\AdminPanel\obj\Debug\AdminPanel.csproj.CoreCompileInputs.cache
+C:\Users\TBTE4HP06\Desktop\AdminPanel\AdminPanel\obj\Debug\AI.exe
+C:\Users\TBTE4HP06\Desktop\AdminPanel\AdminPanel\obj\Debug\AI.pdb
+C:\Users\TBTE4HP06\Desktop\Examensarbete 2018\AdminPanel\AdminPanel\bin\Debug\employees.mdf
+C:\Users\TBTE4HP06\Desktop\Examensarbete 2018\AdminPanel\AdminPanel\bin\Debug\employees_log.ldf
+C:\Users\TBTE4HP06\Desktop\Examensarbete 2018\AdminPanel\AdminPanel\bin\Debug\AI.exe.config
+C:\Users\TBTE4HP06\Desktop\Examensarbete 2018\AdminPanel\AdminPanel\bin\Debug\AI.exe
+C:\Users\TBTE4HP06\Desktop\Examensarbete 2018\AdminPanel\AdminPanel\bin\Debug\AI.pdb
+C:\Users\TBTE4HP06\Desktop\Examensarbete 2018\AdminPanel\AdminPanel\obj\Debug\AdminPanel.csprojResolveAssemblyReference.cache
+C:\Users\TBTE4HP06\Desktop\Examensarbete 2018\AdminPanel\AdminPanel\obj\Debug\Interop.OutlookSocialProvider.dll
+C:\Users\TBTE4HP06\Desktop\Examensarbete 2018\AdminPanel\AdminPanel\obj\Debug\Interop.SharePointProvider.dll
+C:\Users\TBTE4HP06\Desktop\Examensarbete 2018\AdminPanel\AdminPanel\obj\Debug\AdminPanel.csproj.ResolveComReference.cache
+C:\Users\TBTE4HP06\Desktop\Examensarbete 2018\AdminPanel\AdminPanel\obj\Debug\AdminPanel.Form1.resources
+C:\Users\TBTE4HP06\Desktop\Examensarbete 2018\AdminPanel\AdminPanel\obj\Debug\AI.Properties.Resources.resources
+C:\Users\TBTE4HP06\Desktop\Examensarbete 2018\AdminPanel\AdminPanel\obj\Debug\AdminPanel.csproj.GenerateResource.Cache
+C:\Users\TBTE4HP06\Desktop\Examensarbete 2018\AdminPanel\AdminPanel\obj\Debug\AdminPanel.csproj.CoreCompileInputs.cache
+C:\Users\TBTE4HP06\Desktop\Examensarbete 2018\AdminPanel\AdminPanel\obj\Debug\AI.exe
+C:\Users\TBTE4HP06\Desktop\Examensarbete 2018\AdminPanel\AdminPanel\obj\Debug\AI.pdb

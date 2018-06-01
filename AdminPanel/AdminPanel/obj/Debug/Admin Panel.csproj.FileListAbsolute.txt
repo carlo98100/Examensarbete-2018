@@ -1,0 +1,14 @@
+C:\Users\TBTE4HP06\source\repos\AI\AI\bin\Debug\employees.mdf
+C:\Users\TBTE4HP06\source\repos\AI\AI\bin\Debug\employees_log.ldf
+C:\Users\TBTE4HP06\source\repos\AI\AI\bin\Debug\AI.exe.config
+C:\Users\TBTE4HP06\source\repos\AI\AI\bin\Debug\AI.exe
+C:\Users\TBTE4HP06\source\repos\AI\AI\bin\Debug\AI.pdb
+C:\Users\TBTE4HP06\source\repos\AI\AI\obj\Debug\Interop.OutlookSocialProvider.dll
+C:\Users\TBTE4HP06\source\repos\AI\AI\obj\Debug\Interop.SharePointProvider.dll
+C:\Users\TBTE4HP06\source\repos\AI\AI\obj\Debug\Admin Panel.csproj.ResolveComReference.cache
+C:\Users\TBTE4HP06\source\repos\AI\AI\obj\Debug\AI.Form1.resources
+C:\Users\TBTE4HP06\source\repos\AI\AI\obj\Debug\AI.Properties.Resources.resources
+C:\Users\TBTE4HP06\source\repos\AI\AI\obj\Debug\Admin Panel.csproj.GenerateResource.Cache
+C:\Users\TBTE4HP06\source\repos\AI\AI\obj\Debug\Admin Panel.csproj.CoreCompileInputs.cache
+C:\Users\TBTE4HP06\source\repos\AI\AI\obj\Debug\AI.exe
+C:\Users\TBTE4HP06\source\repos\AI\AI\obj\Debug\AI.pdb
